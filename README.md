@@ -1,5 +1,6 @@
 # nier-korean
 니어: 오토마타 한국어 패치 (덮어쓰기)
+- [다운로드](https://github.com/continuecoin/nier-korean/releases/download/v1.0.0.1/data.zip)
 - 게임이 설치된 경로를 찾아가 `NieRAutomata` 폴더 내 `data` 폴더를 덮어쓰세요
 
 ## [출처 및 최신 버전](https://blog.naver.com/aiden1212356/222834163725)
